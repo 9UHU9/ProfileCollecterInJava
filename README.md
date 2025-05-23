@@ -3,7 +3,12 @@
 =======
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+このプログラムでは、複数人のプロフィールを記録し、BMIや平均年齢の算出を行うことが出来ます。（オブジェクト指向の概念は含みません）
+
+## Attention
+
+  身長は必ず（m）表記でお書きください
+  例）身長：178 ⇒　身長：1.78
 
 ## Folder Structure
 
